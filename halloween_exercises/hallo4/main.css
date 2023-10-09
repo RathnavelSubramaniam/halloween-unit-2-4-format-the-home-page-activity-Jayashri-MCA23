@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+img{
+    float: left;
+    margin: 20px;
+}
+h1,h4,h5{
+    margin-top: 20px;
+}
+h1{
+    color: orange;
+    text-shadow: 1px 2px black;
+    font-style: italic;
+    padding: 10px;
+}
+h4{
+   margin-top: 60px;
+
+}
+h2{
+    padding-top: 10px;
+    margin-top: 10px;
+}
+h4::first-letter{
+    text-transform: capitalize;
+    font-size: 40px;
+}
+a{
+   
+    margin-top:20px ;
+    color: orange;
+   
+}
+li{
+    margin-left: 20px;
+    line-height: 1.5;
+}
+footer{
+    text-align: center;
+}
